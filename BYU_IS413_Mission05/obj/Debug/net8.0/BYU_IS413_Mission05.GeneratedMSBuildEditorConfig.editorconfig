@@ -18,12 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/Views/Home/Calculator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DYWxjdWxhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/Views/Shared/Error.cshtml]

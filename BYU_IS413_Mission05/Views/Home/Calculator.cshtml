@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Tutoring Services";
+}
+<h1>@ViewData["Title"] Calculator</h1>
+
+<p>
+    I'm a competitve and colorfully vocab'ed gamer. I also dabble in coaching.
+    Fill out this form to see what my services would cost a shmuck like yourself.
+</p>
+<form>
+    <label>Hourly Rate: $</label>
+    <input id="costHrs" type="number" value="50" readonly/>
+    <br/>
+    <label>Hours of Padawan Training</label>
+    <input id="numHrs" type="number" min="0" oninput="validateInput(this)"/>
+    <br/>
+    <button id="btnCalc" type="button">Calculate Cost</button>
+</form>

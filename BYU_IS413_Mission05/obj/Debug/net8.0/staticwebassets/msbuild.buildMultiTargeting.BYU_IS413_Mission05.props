@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/BYU_IS413_Mission05.props" />
+</Project>
