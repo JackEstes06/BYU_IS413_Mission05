@@ -13,6 +13,42 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/wwwroot/img/halo.jpg",
+      "PackagePath": "staticwebassets/img/halo.jpg"
+    },
+    {
+      "Id": "/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/wwwroot/img/me_r6_meme.png",
+      "PackagePath": "staticwebassets/img/me_r6_meme.png"
+    },
+    {
+      "Id": "/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/wwwroot/img/minecraft.jpg",
+      "PackagePath": "staticwebassets/img/minecraft.jpg"
+    },
+    {
+      "Id": "/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/wwwroot/img/pokemon.jpg",
+      "PackagePath": "staticwebassets/img/pokemon.jpg"
+    },
+    {
+      "Id": "/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/wwwroot/img/r6.jpg",
+      "PackagePath": "staticwebassets/img/r6.jpg"
+    },
+    {
+      "Id": "/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/wwwroot/img/r6_rank.jpg",
+      "PackagePath": "staticwebassets/img/r6_rank.jpg"
+    },
+    {
+      "Id": "/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/wwwroot/img/rl.jpg",
+      "PackagePath": "staticwebassets/img/rl.jpg"
+    },
+    {
+      "Id": "/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/wwwroot/img/rl_rank.jpg",
+      "PackagePath": "staticwebassets/img/rl_rank.jpg"
+    },
+    {
+      "Id": "/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/wwwroot/img/rust.jpg",
+      "PackagePath": "staticwebassets/img/rust.jpg"
+    },
+    {
       "Id": "/Users/jackestes/Documents/Current Semester/IS_413/Missions/BYU_IS413_Mission05/BYU_IS413_Mission05/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
